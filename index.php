@@ -46,7 +46,7 @@ if(!isset($_SESSION['logged_in'])): ?>
 // ====================== MATOMO ======================
 date_default_timezone_set('Asia/Jakarta'); // pakai timezone Indonesia
 
-$matomoUrl = "https://doku.promo/anl/"; 
+$matomoUrl = "https://github.com/dokupromo/analy"; 
 $siteId    = 1;
 $token     = "aadbf3a52da9d94ac70a5d1a3fe6b2a4";
 
